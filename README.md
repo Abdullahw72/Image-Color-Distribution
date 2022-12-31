@@ -5,4 +5,4 @@ all the dominant colors in any given image.
 
 The below output shows the color distribution of the given image.
 
-![Screenshot 1](https://imgur.com/a/E45SNLG)
+![Screenshot 1](https://imgur.com/a/E45SNLG.jpg)
